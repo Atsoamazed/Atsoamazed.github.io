@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Coding Chronicles
 header-img: img/home-bg.png
 email: aderiannaw@yahoo.com
 copyright_name: Atsoamazed
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Journey to becoming a Full stack developer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: atsoamazed
 github_username:  Atsoamazed
